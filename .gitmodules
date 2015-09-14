@@ -1,0 +1,12 @@
+[submodule "atlib"]
+	path = atlib
+	url = git@gitlab.soft.vub.ac.be:ambienttalk/atlib.git
+[submodule "iat"]
+	path = iat
+	url = git@gitlab.soft.vub.ac.be:ambienttalk/iat.git
+[submodule "interpreter"]
+	path = interpreter
+	url = git@gitlab.soft.vub.ac.be:ambienttalk/interpreter.git
+[submodule "parser"]
+	path = parser
+	url = git@gitlab.soft.vub.ac.be:ambienttalk/parser.git
